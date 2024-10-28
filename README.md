@@ -1,4 +1,4 @@
-!https://ny.aarin.me/_next/image?url=%2Flogo.png&w=1920&q=75
+![logo](https://ny.aarin.me/_next/image?url=%2Flogo.png&w=1920&q=75)
 
 <!--
 **Nyaughh/Nyaughh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
