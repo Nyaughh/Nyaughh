@@ -6,10 +6,14 @@
   </tr>
   <tr>
     <td colspan="3" valign="top">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaughh&layout=compact&theme=soft&hide_border=true&title_color=ff69b4&text_color=6c757d&bg_color=00000000&cache_seconds=1800" alt="Top Languages"/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaughh&layout=compact&theme=soft&hide_border=true&title_color=ff69b4&text_color=6c757d&bg_color=00000000&v=2" alt="Top Languages"/>
+      </a>
     </td>
     <td colspan="3" valign="top">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyaughh&show_icons=true&theme=soft&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=6c757d&bg_color=00000000&cache_seconds=1800" alt="GitHub Stats"/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyaughh&show_icons=true&theme=soft&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=6c757d&bg_color=00000000&v=2" alt="GitHub Stats"/>
+      </a>
     </td>
   </tr>
   <tr>
