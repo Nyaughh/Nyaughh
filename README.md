@@ -5,8 +5,12 @@
     <td colspan="2" align="center"><img src="https://gl.chiikawa-pocket.com/en/_astro/Hachiware.OfZO944x.png" alt="Hachiware" width="200"/></td>
   </tr>
   <tr>
-    <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaughh&layout=compact&theme=soft&hide_border=true&title_color=ff69b4&text_color=6c757d&bg_color=00000000" alt="Top Languages"/></td>
-    <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyaughh&show_icons=true&theme=soft&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=6c757d&bg_color=00000000" alt="GitHub Stats"/></td>
+    <td colspan="3" valign="top">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaughh&layout=compact&theme=soft&hide_border=true&title_color=ff69b4&text_color=6c757d&bg_color=00000000&cache_seconds=1800" alt="Top Languages"/>
+    </td>
+    <td colspan="3" valign="top">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyaughh&show_icons=true&theme=soft&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=6c757d&bg_color=00000000&cache_seconds=1800" alt="GitHub Stats"/>
+    </td>
   </tr>
   <tr>
     <td colspan="6">
