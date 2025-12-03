@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats-one-wine-72.vercel.app/api/top-langs/?username=Nyaughh&layout=compact&hide_border=true&title_color=ff69b4&text_color=6c757d&bg_color=00000000&theme=transparent" alt="Top Languages"/></td>
-    <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyaughh&show_icons=true&theme=calm&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=6c757d&bg_color=00000000" alt="GitHub Stats"/></td>
+    <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats-one-wine-72.vercel.app/api?username=Nyaughh&show_icons=true&theme=calm&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=6c757d&bg_color=00000000" alt="GitHub Stats"/></td>
   </tr>
   <tr>
     <td colspan="6">
