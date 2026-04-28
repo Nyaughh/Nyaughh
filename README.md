@@ -6,11 +6,11 @@
   </tr>
   <tr>
     <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyaughh&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="Top Languages"/></td>
-    <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats-one-wine-72.vercel.app/api?username=Nyaughh&show_icons=true&theme=calm&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=6c757d&bg_color=00000000" alt="GitHub Stats"/></td>
+    <td colspan="3" valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyaughh&theme=omni&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats"/></td>
   </tr>
   <tr>
     <td colspan="6">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyaughh&theme=omni&show_icons=true&hide_border=true&layout=compact" alt="GitHub Activity Graph" style="border-radius: 2px;" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyaughh&theme=minimal&hide_border=true&color=ff69b4&line=ff69b4&point=ff69b4&bg_color=ffffff00" alt="GitHub Activity Graph" style="border-radius: 2px;" />
     </td>
   </tr>
 </table>
